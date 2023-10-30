@@ -6,8 +6,8 @@
         @csrf
 
         <!-- Email Address -->
-     <!-- * Nama     : Davin Wahyu Wardana
-     * NIM      : 6706223003
+     <!-- * Nama     : Azka Faris Akbar
+     * NIM      : 6706220020
      * Kelas    : 4603 -->
         <div>
             <x-input-label for="username" :value="__('Username')" />
