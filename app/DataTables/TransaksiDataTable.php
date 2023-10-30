@@ -65,8 +65,8 @@ class TransaksiDataTable extends DataTable
                 Button::make('reload')
             ]);
     }
-    // Nama    : Davin Wahyu Wardana
-    // NIM     : 6706223003
+    // Nama    : Azka Faris Akbar
+    // NIM     : 6706220020
     // Kelas   : D3IF-4603
     public function getColumns(): array
     {
