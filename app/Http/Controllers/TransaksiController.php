@@ -45,8 +45,8 @@ class TransaksiController extends Controller
         return view('transaksi.editTransaksi', compact('transaksiDetail', 'transaksi','koleksi'));
     }
     
-// Nama    : Davin Wahyu Wardana
-// NIM     : 6706223003
+// Nama    : Azka Faris Akbar
+// NIM     : 6706220020
 // Kelas   : D3IF-4603
     public function update(Request $request, $id)
 {
