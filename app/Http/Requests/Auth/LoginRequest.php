@@ -21,8 +21,8 @@ class LoginRequest extends FormRequest
 
     /**
      * Get the validation rules that apply to the request.
-     * Nama     : Davin Wahyu Wardana
-     * NIM      : 6706223003
+     * Nama     : Azka Faris Akbar
+     * NIM      : 6706220020
      * Kelas    : 4603
      * @return array<string, \Illuminate\Contracts\Validation\Rule|array|string>
      */
